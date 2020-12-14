@@ -3,9 +3,9 @@
 ## Before to start
 
 1. Think about a complete login system, draw the forms on a paper
-2. Could you list the different endpoints your backend needs to be able to complete all login functionalities? explain how would work each one and dessign the database on a notebook
-3. Here is a small introduction video to JWT https://www.youtube.com/watch?v=soGRyl9ztjI, watch it and try to answer these questions: explain in a few words the meaning of this words: HTTP, session, stateless, authentications, authorization, token, cookie, load balancer
-4. If more or less you understand how JWT works, watch a video that explains in more detail the steps to apply it to a login system https://www.youtube.com/watch?v=oXxbB5kv9OA
+2. Could you list the different endpoints your backend needs to be able to complete all login functionalities? explain how would work each one and dessign the database on a paper
+3. Here is a small introduction video to JWT https://www.youtube.com/watch?v=soGRyl9ztjI, watch it and try to exlpain meaning of these words: HTTP, session, stateless, authentications, authorization, token, cookie, load balancer
+4. If more or less you understand how JWT works, watch this video that explains in more detail the steps to apply it to a login system https://www.youtube.com/watch?v=oXxbB5kv9OA
 5. List again the different endpoints and the database your backend needs using JWT
 
 ## Part 1: Back-End
